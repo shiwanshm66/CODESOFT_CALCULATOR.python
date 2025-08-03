@@ -85,6 +85,9 @@ Calculation history
 
 Memory buttons (M+, M-, MR)
 
-yaml
-Copy
-Edit
+# AUTHOR
+shiwansh mishra
+
+shiwanshm55@gmail.com
+
+https://github.com/shiwanshm66
